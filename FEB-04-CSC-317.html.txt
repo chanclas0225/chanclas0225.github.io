@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+       <meta charset="utf-8">
+       <title>A minimal web page is a fun page</title> 
+   </head>
+   <body>
+      <h1>My main heading is a fun heading</h1>
+      <p id="first">My paragraph is a fun paragraph. Machine learning models are <i>fun to create</i>. 
+        Image visualization for biomedical uses are <em>awesome</em></p>
+      <p id="second"> 
+        <a target="_blank" href="https://stocktwits.com/symbol/AMC"> LOVE AMC</a>
+      </p>
+      <p>The three technologies I enjoy are the following: test </p>
+      <ul>
+        <li>C++</li>
+        <li>Java</li> 
+        <li>Python </li>
+    </ul>
+
+    <img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk4OTlqb2U0cG83dWpvaTQ3M3RzNjN1a3owemNxOWc5Nms2aXB6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u36Ow6jBvWCFW/giphy.gif"
+          alt="A shark laughing histerically"
+          width="300px"/>
+   </body>
+</html>
